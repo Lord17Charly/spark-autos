@@ -1,0 +1,4 @@
+[
+  "{\"ID\":21,\"Fecha\":\"2025-03-01\",\"Ciudad\":\"Madrid\",\"Estado\":\"Madrid\",\"Numero_Vehiculos\":3,\"Gravedad\":\"Grave\",\"Lesionados\":3,\"Fallecidos\":0,\"Causa\":\"Distraído\"}",
+  "{\"ID\":41,\"Fecha\":\"2025-04-20\",\"Ciudad\":\"Madrid\",\"Estado\":\"Madrid\",\"Numero_Vehiculos\":3,\"Gravedad\":\"Grave\",\"Lesionados\":3,\"Fallecidos\":0,\"Causa\":\"Distraído con teléfono\"}"
+]

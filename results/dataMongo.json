@@ -1,0 +1,6 @@
+[
+  "{\"ID\":1,\"Fecha\":\"2025-01-03\",\"Ciudad\":\"Madrid\",\"Estado\":\"Madrid\",\"Numero_Vehiculos\":2,\"Gravedad\":\"Leve\",\"Lesionados\":1,\"Fallecidos\":0,\"Causa\":\"Exceso de velocidad\"}",
+  "{\"ID\":6,\"Fecha\":\"2025-01-15\",\"Ciudad\":\"Málaga\",\"Estado\":\"Málaga\",\"Numero_Vehiculos\":2,\"Gravedad\":\"Leve\",\"Lesionados\":1,\"Fallecidos\":0,\"Causa\":\"Exceso de velocidad\"}",
+  "{\"ID\":30,\"Fecha\":\"2025-03-22\",\"Ciudad\":\"La Coruña\",\"Estado\":\"La Coruña\",\"Numero_Vehiculos\":2,\"Gravedad\":\"Leve\",\"Lesionados\":1,\"Fallecidos\":0,\"Causa\":\"Exceso de velocidad\"}",
+  "{\"ID\":42,\"Fecha\":\"2025-04-22\",\"Ciudad\":\"Barcelona\",\"Estado\":\"Barcelona\",\"Numero_Vehiculos\":2,\"Gravedad\":\"Leve\",\"Lesionados\":0,\"Fallecidos\":0,\"Causa\":\"Exceso de velocidad\"}"
+]
