@@ -1,0 +1,51 @@
+ID,Fecha,Ciudad,Estado,Numero_Vehiculos,Gravedad,Lesionados,Fallecidos,Causa
+1,2025-01-03,Madrid,Madrid,2,Leve,1,0,Exceso de velocidad
+2,2025-01-05,Barcelona,Barcelona,3,Grave,4,1,Alcohol y distracción
+3,2025-01-07,Valencia,Valencia,2,Leve,0,0,Frenado brusco
+4,2025-01-10,Sevilla,Sevilla,4,Fatal,5,2,Conducción distraída
+5,2025-01-12,Zaragoza,Zaragoza,2,Grave,3,0,Condiciones climáticas
+6,2025-01-15,Málaga,Málaga,2,Leve,1,0,Exceso de velocidad
+7,2025-01-18,Bilbao,País Vasco,3,Grave,2,1,Conducción temeraria
+8,2025-01-20,Granada,Granada,2,Leve,0,0,Error del conductor
+9,2025-01-22,Oviedo,Asturias,3,Grave,3,0,Alcohol al volante
+10,2025-01-25,La Coruña,La Coruña,4,Fatal,6,3,Condiciones meteorológicas
+11,2025-01-28,Salamanca,Castilla y León,2,Leve,0,0,Frenado repentino
+12,2025-02-02,Murcia,Murcia,3,Grave,2,1,Inexperiencia
+13,2025-02-05,Almería,Andalucía,2,Leve,1,0,Distancia inadecuada
+14,2025-02-08,Toledo,Castilla-La Mancha,4,Fatal,4,2,Fatiga al volante
+15,2025-02-10,San Sebastián,País Vasco,2,Leve,0,0,Fallo mecánico
+16,2025-02-12,Santander,Cantabria,3,Grave,3,0,Distracción con móvil
+17,2025-02-15,Castellón,Castellón,2,Leve,1,0,Desvío inesperado
+18,2025-02-18,Logroño,La Rioja,3,Grave,2,1,Alcohol y velocidad
+19,2025-02-20,León,Castilla y León,2,Leve,0,0,Frenado brusco
+20,2025-02-22,Albacete,Castilla-La Mancha,4,Fatal,5,2,Choque múltiple
+21,2025-03-01,Madrid,Madrid,3,Grave,3,0,Distraído
+22,2025-03-03,Barcelona,Barcelona,2,Leve,1,0,Conducción temeraria
+23,2025-03-05,Valencia,Valencia,4,Fatal,4,2,Alcohol
+24,2025-03-08,Sevilla,Sevilla,2,Leve,0,0,Error humano
+25,2025-03-10,Zaragoza,Zaragoza,3,Grave,2,0,Lluvia intensa
+26,2025-03-12,Málaga,Málaga,2,Leve,1,0,Desvío repentino
+27,2025-03-15,Bilbao,País Vasco,4,Fatal,5,3,Distracción
+28,2025-03-18,Granada,Granada,2,Leve,0,0,Frenado brusco
+29,2025-03-20,Oviedo,Asturias,3,Grave,3,1,Falta de atención
+30,2025-03-22,La Coruña,La Coruña,2,Leve,1,0,Exceso de velocidad
+31,2025-03-25,Salamanca,Castilla y León,4,Fatal,6,3,Alcohol
+32,2025-03-28,Murcia,Murcia,2,Leve,0,0,Freno repentino
+33,2025-03-30,Almería,Andalucía,3,Grave,2,1,Inexperiencia
+34,2025-04-02,Toledo,Castilla-La Mancha,2,Leve,1,0,Distancia corta
+35,2025-04-05,San Sebastián,País Vasco,3,Grave,3,0,Desvío brusco
+36,2025-04-07,Santander,Cantabria,2,Leve,0,0,Frenado repentino
+37,2025-04-10,Castellón,Castellón,4,Fatal,5,2,Conducción distraída
+38,2025-04-12,Logroño,La Rioja,2,Leve,0,0,Error de juicio
+39,2025-04-15,León,Castilla y León,3,Grave,2,1,Lluvia intensa
+40,2025-04-18,Albacete,Castilla-La Mancha,2,Leve,1,0,Conducción temeraria
+41,2025-04-20,Madrid,Madrid,3,Grave,3,0,Distraído con teléfono
+42,2025-04-22,Barcelona,Barcelona,2,Leve,0,0,Exceso de velocidad
+43,2025-04-25,Valencia,Valencia,4,Fatal,6,2,Conducción bajo efectos
+44,2025-04-28,Sevilla,Sevilla,2,Leve,1,0,Inexperiencia
+45,2025-05-01,Zaragoza,Zaragoza,3,Grave,3,1,Distracción al volante
+46,2025-05-03,Málaga,Málaga,2,Leve,0,0,Frenado inesperado
+47,2025-05-05,Bilbao,País Vasco,4,Fatal,5,2,Exceso de velocidad
+48,2025-05-08,Granada,Granada,2,Leve,0,0,Frenado brusco
+49,2025-05-10,Oviedo,Asturias,3,Grave,2,0,Conducción imprudente
+50,2025-05-12,La Coruña,La Coruña,2,Leve,1,0,Error humano
