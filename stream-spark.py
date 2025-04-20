@@ -86,7 +86,7 @@ if st.sidebar.button("Refrescar MongoDB"):
 
 #Subir a mongoDB
 if st.sidebar.button("Subir a MongoDB"):
-    trigger_post("")
+    trigger_post("https://kafka-autos-mongo-producer.onrender.com/send_data")
 
 #PostgreSQL
 st.sidebar.subheader("PostgreSQL")
@@ -104,7 +104,7 @@ if st.sidebar.button("Refrescar PostgreSQL"):
         st.dataframe(df_postgres)
 #Subir a PostgreSQL
 if st.sidebar.button("Subir a PostgreSQL"):
-    trigger_post("")
+    trigger_post("https://kafka-autos-1.onrender.com/send_data")
 
 # ------------------- SPARK JOB ------------------- #
 st.title("Spark & Streamlit")
