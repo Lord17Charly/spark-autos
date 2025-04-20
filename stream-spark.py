@@ -111,12 +111,12 @@ st.title("Spark & Streamlit")
 
 st.header("spark-submit Job")
 
-github_user  =  st.text_input('Github user')
-github_repo  =  st.text_input('Github repo')
-spark_job    =  st.text_input('Spark job')
+github_user  =  st.text_input('Github user',value="Lord17Charly")
+github_repo  =  st.text_input('Github repo',value="spark-autos")
+spark_job    =  st.text_input('Spark job',value="spark")
 github_token =  st.text_input('Github token', type='password')
-code_url     =  st.text_input('Code URL')
-dataset_url  =  st.text_input('Dataset URL')
+code_url     =  st.text_input('Code URL',value="https://raw.githubusercontent.com/Lord17Charly/spark-autos/main/autos.py")
+dataset_url  =  st.text_input('Dataset URL',value="https://raw.githubusercontent.com/Lord17Charly/spark-autos/main/autos.csv")
 
 def post_spark_job(user, repo, job, token, codeurl, dataseturl):
     url = f'https://api.github.com/repos/{user}/{repo}/dispatches'
